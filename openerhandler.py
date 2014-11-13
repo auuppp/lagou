@@ -20,7 +20,7 @@ top_level_url = "https://passport.csdn.net/account/login?ref=toolbar"
 
 # 如果知道 realm, 我们可以使用他代替 ``None``.
 # password_mgr.add_password(None, top_level_url, username, password)
-password_mgr.add_password(None, top_level_url,'auuppp', 'auuppp123')
+password_mgr.add_password(None, top_level_url,'auuppp', 'auuppp')
 print password_mgr
 
 # 创建了一个新的handler
